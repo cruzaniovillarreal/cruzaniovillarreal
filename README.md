@@ -1,4 +1,4 @@
-<h1 align="center">Nice to Meet You, I'm Cruzanio ![](hi.gif)!
+<h1 align="center">Nice to Meet You, I'm Cruzanio</h1> ![](hi.gif)!
 
 <!--
 **cruzaniovillarreal/cruzaniovillarreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,10 +47,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   </p>
 
-<p align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cruzaniovillarreal&show_icons=true&theme=tokyonight)
-  </p>
 
-<p align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cruzaniovillarreal&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cruzaniovillarreal&theme=tokyonight)
-  </p>
