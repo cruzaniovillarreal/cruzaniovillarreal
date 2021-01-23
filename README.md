@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Nice to Meet You, I'm Cruzanio ![](hi.gif)!
 
 <!--
 **cruzaniovillarreal/cruzaniovillarreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-#### Frontend
+<h1 align="center">Frontend</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -25,28 +25,32 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 </p>
 
-#### Backend
+<h1 align="center">Backend</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-#### Version Control
-<p float="left">
+<h1 align="center">Version Control</h1>
+<p align="center">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-### Testing
-<p float="left">
+<h1 align="center">Testing</h1>
+<p align="center">
   <img src="https://img.shields.io/badge/jasmine%20-%23000000.svg?&style=for-the-badge&logo=jasmine&logoColor=white"/>
   </p>
   
-### Frameworks
-<p float="left">
+<h1 align="center">Framework</h1>
+<p align="center">
   <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   </p>
 
+<p align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cruzaniovillarreal&show_icons=true&theme=tokyonight)
+  </p>
 
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cruzaniovillarreal&theme=tokyonight)
+  </p>
