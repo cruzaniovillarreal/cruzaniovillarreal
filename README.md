@@ -30,12 +30,13 @@
 
 <h3>What I'm Currently Learning</h3>
 
+![VISUAL-STUDIO-CODE](https://img.shields.io/badge/-VSC-000000?style=flat&logo=visual-studio-code)
 ![C SHARP](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
 ![ASP.Net](https://img.shields.io/badge/-ASP.Net-000000?style=flat&logo=asp.net)
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cruzaniovillarreal&" alt="cruzaniovillarreal" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cruzaniovillarreal&theme=tokyonight" alt="cruzaniovillarreal" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cruzaniovillarreal&show_icons=true&theme=tokyonight" alt="cruzaniovillarreal" />
 </p>
 
