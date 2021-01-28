@@ -12,7 +12,8 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cruzanio.villarreal@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cruzaniovillarreal/)
 
-##### Skilled in
+<h3>What I Know</h3>
+
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
@@ -23,25 +24,25 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![mySQL](https://img.shields.io/badge/-mySQL-000000?style=flat&logo=mysql)
+![JASMINE](https://img.shields.io/badge/-Jasmine-000000?style=flat&logo=jasmine)
+![MAVEN](https://img.shields.io/badge/-Maven-000000?style=flat&logo=apache-maven)
+![TOMCAT](https://img.shields.io/badge/-Tomcat-000000?style=flat&logo=apache-tomcat)
 
-##### What I'm currently learning
+<h3>What I'm Currently Learning</h3>
 
-![C SHARP](https://img.shields.io/badge/-C_Sharp-000000?style=flat&logo=c_sharp)
+![C SHARP](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
 ![ASP.Net](https://img.shields.io/badge/-ASP.Net-000000?style=flat&logo=asp.net)
 
 
 <p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cruzaniovillarreal&" alt="cruzaniovillarreal" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cruzaniovillarreal&show_icons=true&theme=tokyonight" alt="cruzaniovillarreal" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruzaniovillarreal&theme=tokyonight" alt="cruzaniovillarreal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruzaniovillarreal&layout=compact&theme=tokyonight" alt="cruzaniovillarreal" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cruzaniovillarreal&" alt="cruzaniovillarreal" />
-</p>
- 
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cruzaniovillarreal&show_icons=true&theme=tokyonight) -->
