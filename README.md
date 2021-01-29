@@ -5,8 +5,8 @@
 <!--
 **cruzaniovillarreal/cruzaniovillarreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🎓 Recent graduate of Codeup's BIO Cohort
-- 🔭 I’m currently working on a self-solving Soduko game.
+- 🎓 Recent graduate of Codeup's Full Stack Web Development Program.
+- 🔭 I’m currently working on a self-solving Sudoko game.
 - 🌱 I’m currently learning project building using ASP.Net's MVC Design Pattern and C#.
 - 💬 Ask me about my projects, full stack, or literally anything!
 - 📫 How to reach me: With the links below:
@@ -47,8 +47,4 @@
 </p>
 
 
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cruzaniovillarreal&show_icons=true&theme=tokyonight) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cruzaniovillarreal&theme=tokyonight) -->
 
