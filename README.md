@@ -1,4 +1,6 @@
-<h1 align="center">Hello, I'm Cruzanio  <img src="Hi.gif" width="30" height="30"/></h1> 
+[![Header](https://github.com/cruzaniovillarreal/cruzaniovillarreal/blob/main/banner.gif)](https://github.com/cruzaniovillarreal)
+
+<h1 align="center">Hello There  <img src="Hi.gif" width="30" height="30"/></h1> 
 
 <!--
 **cruzaniovillarreal/cruzaniovillarreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
