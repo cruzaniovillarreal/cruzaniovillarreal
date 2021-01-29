@@ -4,9 +4,10 @@
 
 <!--
 **cruzaniovillarreal/cruzaniovillarreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+### About Me
 
 - 🎓 Recent graduate of Codeup's Full Stack Web Development Program.
-- 🔭 I’m currently working on a self-solving Sudoko game.
+- 🔭 I’m currently working on a self-solving Sudoku game.
 - 🌱 I’m currently learning project building using ASP.Net's MVC Design Pattern and C#.
 - 💬 Ask me about my projects, full stack, or literally anything!
 - 📫 How to reach me: With the links below:
@@ -39,6 +40,9 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cruzaniovillarreal&theme=tokyonight" alt="cruzaniovillarreal" />
+</p>
+
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cruzaniovillarreal&show_icons=true&theme=tokyonight" alt="cruzaniovillarreal" />
 </p>
 
