@@ -6,11 +6,11 @@
 **cruzaniovillarreal/cruzaniovillarreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### About Me
 
-- 🎓 Recent graduate of Codeup's Full Stack Web Development Program.
-- 🔭 I’m currently working on a self-solving Sudoku game.
-- 🌱 I’m currently learning project building using ASP.Net's MVC Design Pattern and C#.
-- 💬 Ask me about my projects, full stack, or literally anything!
-- 📫 How to reach me: With the links below:
+- 🎓  Recent graduate of Codeup's Full Stack Web Development Program.
+- 🔭  I’m currently working on a self-solving Sudoku game.
+- 🌱  I’m currently learning project building using ASP.Net's MVC Design Pattern and C#.
+- 💬  Ask me about my projects, full stack, or literally anything!
+- 📫  How to reach me: With the links below:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cruzanio.villarreal@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cruzaniovillarreal/)
